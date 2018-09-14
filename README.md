@@ -1,4 +1,4 @@
 # instructions-again
-## A demo for instructions
+A demo for instructions
 
-Woo! More content!
+## Woo! More content!
